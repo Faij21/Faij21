@@ -17,8 +17,7 @@ As a dedicated and self-driven **Project Manager and QA Freelancer**, I bring ov
 If you're looking for someone who can ensure your application is **FREE FROM BUGS 🐛🐛🐛, on time ⏳**, then HIRE ME! 🚀🚀🚀
 
 ### Reach me on:
-- [Upwork](#)
-- [LinkedIn](#)
+- [LinkedIn](https://www.linkedin.com/in/faijan-shaikh211998/)
 - [GitHub](https://github.com/Faij21)
 - [Email](mailto:test.faijan@gmail.com)
 
