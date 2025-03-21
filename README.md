@@ -1,7 +1,7 @@
 # Hey, I am Faijan Shaikh 👋
 
 ## About Me
-As a dedicated and self-driven **Project Manager and QA Freelancer**, I bring over **6 years of hands-on experience** in **Manual, Automation, and Mobile Testing**. Throughout my career, I have helped clients across various industries deliver high-quality applications by implementing efficient **QA strategies, automation frameworks, and performance testing techniques**.
+As a dedicated and self-driven **SDET and QA Freelancer**, I bring over **6 years of hands-on experience** in **Manual, Automation, and Mobile Testing**. Throughout my career, I have helped clients across various industries deliver high-quality applications by implementing efficient **QA strategies, automation frameworks, and performance testing techniques**.
 
 🔹 **Expertise in:**
 - **Test Automation:** Selenium, Cypress, Playwright, Appium
